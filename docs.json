@@ -60,7 +60,8 @@
       ]
     },
     "pages": [
-      "manual-de-usuario"
+      "manual-de-usuario",
+      "manual-tecnico"
     ]
   }
 }
